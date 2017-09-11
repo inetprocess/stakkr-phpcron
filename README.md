@@ -7,7 +7,7 @@ __WARNING: The plugin directory must be named `phpcron`__ (complete path: plugin
 Clone the repository in the plugins/ directory of your stakkr setup.
 
 # Compose setup
-'''
+```
 phpcron.version=5.6
 phpcron.ram=512M
-'''
+```
